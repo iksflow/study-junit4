@@ -1,4 +1,4 @@
-package controller;
+package ch03.controller;
 
 public interface Controller {
 	Response processRequest(Request request);
